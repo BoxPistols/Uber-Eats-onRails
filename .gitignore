@@ -30,3 +30,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Editor VSCode <-> Terminal to Permit Conf
+bin/*
+/bin
