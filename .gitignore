@@ -34,3 +34,7 @@
 # Editor VSCode <-> Terminal to Permit Conf
 bin/*
 /bin
+
+## add
+node_modules
+.vscode/
